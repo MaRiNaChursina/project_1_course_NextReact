@@ -1,0 +1,19 @@
+{
+  "name": "dz_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaRiNaChursina/project_1_course_NextReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaRiNaChursina/project_1_course_NextReact/issues"
+  },
+  "homepage": "https://github.com/MaRiNaChursina/project_1_course_NextReact#readme"
+}
